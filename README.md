@@ -5,3 +5,5 @@ overall. I think it has an everyday use factor! I also added a keychain hole/slo
 This PCB USB hub has 2 USB-C and 2 USB-A ports, as well as a USB-C port for connecting to your laptop.
 
 <img width="2160" height="1292" alt="PCB_PCB1_2026-06-27" src="https://github.com/user-attachments/assets/3be92a89-9129-4daa-8b2d-204ce80ff2ae" />
+
+<img width="800" height="563" alt="Screenshot 2026-06-28 175844" src="https://github.com/user-attachments/assets/51daa40f-b507-40bf-a524-f49eb2d229ef" />
