@@ -12,3 +12,8 @@ I do own a 3D printer and I have a laptop so I have some future plans for this. 
 <img width="2160" height="1292" alt="PCB_PCB1_2026-06-27" src="https://github.com/user-attachments/assets/3be92a89-9129-4daa-8b2d-204ce80ff2ae" />
 
 <img width="800" height="563" alt="Screenshot 2026-06-28 175844" src="https://github.com/user-attachments/assets/51daa40f-b507-40bf-a524-f49eb2d229ef" />
+
+<img width="3024" height="4032" alt="IMG_9159 (1)" src="https://github.com/user-attachments/assets/19a0e544-74c8-4e70-be9d-3be1c3c7ea91" />
+
+<img width="3024" height="4032" alt="IMG_9160 (1)" src="https://github.com/user-attachments/assets/a43feb54-d198-4b85-b0e3-860ba0835dd1" />
+
