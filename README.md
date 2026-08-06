@@ -11,7 +11,7 @@ I do own a 3D printer and I have a laptop so I have some future plans for this. 
 
 
 | No. | Quantity	| Comment |	Designator |	Footprint |	Value |	Manufacturer | Part	Manufacturer |	Supplier | Part	Supplier | Link |
- -------------------------------------------------------------------------------------------------------------------------------------------------------------
+|-----|----------|---------|------------|-----------|-------|--------------|-------------------|----------|---------------|------|
  
 | 1 |	8	| 1uF |	C1,C2,C3,C4,C5,C7,C8,C10	| C0603 |	1uF				|
  
