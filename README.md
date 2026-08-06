@@ -9,7 +9,8 @@ I do own a 3D printer and I have a laptop so I have some future plans for this. 
 
  #### OnShape link: https://cad.onshape.com/documents/d6c7f358bb5da4fc0262d665/w/2f653336832a228050df406a/e/e6d2c820d1b4a347a0dba563
 
- | No. | Quantity	| Comment |	Designator |	Footprint |	Value |	Manufacturer | Part	Manufacturer |	Supplier | Part	Supplier | Link |
+
+| No. | Quantity	| Comment |	Designator |	Footprint |	Value |	Manufacturer | Part	Manufacturer |	Supplier | Part	Supplier | Link |
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 | 1 |	8	| 1uF |	C1,C2,C3,C4,C5,C7,C8,C10	| C0603 |	1uF				|
