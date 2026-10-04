@@ -27,3 +27,8 @@ I do own a 3D printer and I have a laptop so I have some future plans for this. 
 
 <img width="3024" height="4032" alt="IMG_9160 (1)" src="https://github.com/user-attachments/assets/a43feb54-d198-4b85-b0e3-860ba0835dd1" />
 
+<img width="576" height="442" alt="image" src="https://github.com/user-attachments/assets/29a76231-01ce-4374-b16e-022e7751ad63" />
+
+<img width="682" height="593" alt="image" src="https://github.com/user-attachments/assets/0ea56e5a-f3f7-4279-b7b4-21c9c1c979fc" />
+
+<img width="792" height="493" alt="image" src="https://github.com/user-attachments/assets/e4ea9a52-e56f-4167-86e9-cf92655d03bc" />
